@@ -1,0 +1,51 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\bin\Debug\ip.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\bin\Debug\ip.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\bin\Debug\ip.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ip\ip\obj\Debug\ip.pdb
+C:\Users\Administrator\Desktop\ip\ip\bin\Debug\ip.exe.config
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.exe
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.pdb
+C:\Users\Administrator\Desktop\ip\ip\bin\Debug\ip.exe
+C:\Users\Administrator\Desktop\ip\ip\bin\Debug\ip.pdb
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.Form1.resources
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ip\ip\obj\Debug\ip.csproj.GenerateResource.Cache
+C:\Users\ka2ed\Desktop\ip\ip\bin\Debug\ip.exe.config
+C:\Users\ka2ed\Desktop\ip\ip\bin\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip\ip\bin\Debug\ip.pdb
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.csproj.AssemblyReference.cache
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.Form1.resources
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.Properties.Resources.resources
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.csproj.GenerateResource.cache
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.csproj.CoreCompileInputs.cache
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip\ip\obj\Debug\ip.pdb
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.csproj.AssemblyReference.cache
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.Form1.resources
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.Properties.Resources.resources
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.csproj.GenerateResource.cache
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.csproj.CoreCompileInputs.cache
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.pdb
+C:\Users\ka2ed\Desktop\ip - Copy\ip\bin\Debug\ip.exe.config
+C:\Users\ka2ed\Desktop\ip - Copy\ip\bin\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip - Copy\ip\bin\Debug\ip.pdb
+C:\Users\ka2ed\Desktop\ip - Copy\ip\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ka2ed\Desktop\ip - Copy\ip\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ka2ed\Desktop\ip - Copy\ip\obj\Debug\ip.csproj.CopyComplete
+C:\Users\ka2ed\Desktop\ip2\ip\bin\Debug\ip.exe.config
+C:\Users\ka2ed\Desktop\ip2\ip\bin\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip2\ip\bin\Debug\ip.pdb
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.csproj.AssemblyReference.cache
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.Form1.resources
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.Properties.Resources.resources
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.csproj.GenerateResource.cache
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.csproj.CoreCompileInputs.cache
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.exe
+C:\Users\ka2ed\Desktop\ip2\ip\obj\Debug\ip.pdb
